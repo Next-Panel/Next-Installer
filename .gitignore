@@ -47,3 +47,5 @@ yarn-error.log
 node_modules/
 .pnpm/
 .yarn/
+# Tralhas locais
+tralhas
